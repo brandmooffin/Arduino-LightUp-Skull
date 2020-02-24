@@ -1,6 +1,6 @@
 # Arduino Light Up Skull
 
-![message-thing-device](https://raw.githubusercontent.com/brandmooffin/Arduino-LightUp-Skull/master/arduino_lightup_skull_schematics_bb.png)
+![arduino-lightup-skull](https://raw.githubusercontent.com/brandmooffin/Arduino-LightUp-Skull/master/arduino_lightup_skull_schematics_bb.png)
 
 ## Project Overview
 * Arduino Nano
